@@ -1,5 +1,5 @@
-#!/usr/bin/python
-
+#bin/python
+#coded by hacke xphantom
 import socket, sys, os, re, random, optparse, time, io
 if sys.version_info.major <= 2:import httplib
 else:import http.client as httplib
